@@ -10,7 +10,7 @@ This project was developed using the following technologies:
 # 🎬 Getting started #
 **Clone the project and access the folder**
 ~~~
-$ git clone https://github.com/Thirki/Podcastr-NLW5.git && cd podcastr-NLW5
+$ git clone https://github.com/Thirki/Podcastr-NLW5.git && cd Podcastr-NLW5
 ~~~
 **Follow the steps below**
 ~~~
